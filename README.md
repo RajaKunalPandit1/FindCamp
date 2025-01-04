@@ -41,29 +41,36 @@ A full-stack web application developed using Express JS, MongoDB, and EJS and Bo
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
       <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-    <a href="https://ejs.co/" target="_blank"> <img src="./demo/images/ejs.svg" alt="embedded javascript templating" width="40" height="40"/> </a>
+    <a href="https://ejs.co/" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*-8c5bXmKhpKg8NRnBMu0zQ.gif" alt="embedded javascript templating" width="40" height="40"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://mongoosejs.com//" target="_blank"> <img src="./demo/images/mongoose.jpg" alt="mongodb" width="40" height="40"/> </a>
+    <a href="https://mongoosejs.com//" target="_blank"> <img src="https://miro.medium.com/v2/resize:fit:1050/1*OYpEW3PMltGC2MVvJ-5QTw.png" alt="mongodb" width="40" height="40"/> </a>
     </p>
 
->HTML5 - markup language for creating web pages and web applications
+* HTML5 - markup language for creating web pages and web applications
 
->CSS3 - used for describing the presentation of a document written in a markup language
+* CSS3 - used for describing the presentation of a document written in a markup language
 
->Bootstrap - free and open-source front-end web framework for designing websites and web applications quickly
+* Bootstrap - free and open-source front-end web framework for designing websites and web applications quickly
 
->jQuery - cross-platform JavaScript library designed to simplify the client-side scripting of HTML
+* jQuery - cross-platform JavaScript library designed to simplify the client-side scripting of HTML
 
->DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document
+* DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document
 
->Node.js - pen-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side
+* Node.js - pen-source, cross-platform JavaScript run-time environment for executing JavaScript code server-side
 
->Express.js - for building web applications and APIs and connecting middleware
+* Express.js - for building web applications and APIs and connecting middleware
 
->REST - REST (REpresentational State Transfer) is an architectural style for developing web services
+* REST - REST (REpresentational State Transfer) is an architectural style for developing web services
 
->MongoDB - open-source cross-platform document-oriented NoSQL database program to store details like users info, campgrounds info and comments
+* MongoDB - open-source cross-platform document-oriented NoSQL database program to store details like users info, campgrounds info and comments
 
->PassportJS - authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application
+* PassportJS - authentication middleware for Node.js. Extremely flexible and modular, Passport can be unobtrusively dropped in to any Express-based web application
 
->Data Associations - associating user data with the respective campgrounds and comments using reference method
+* Data Associations - associating user data with the respective campgrounds and comments using reference method
+
+- NPM tools:
+  - Mongoose
+  - Passport.js: handle authentication
+  - Joi: schema description & data validation
+  - helmet: helps secure the app by setting various HTTP headers
+  - express-mongo-sanitize: prevent MongoDB Operator Injection
