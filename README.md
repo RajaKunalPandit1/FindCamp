@@ -32,7 +32,7 @@ A full-stack web application developed using Express JS, MongoDB, and EJS and Bo
   - Update campground photos when editing campgrounds
 
 # Technology Stack
-[(Back to top)](#table-of-contents)
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -74,3 +74,36 @@ A full-stack web application developed using Express JS, MongoDB, and EJS and Bo
   - Joi: schema description & data validation
   - helmet: helps secure the app by setting various HTTP headers
   - express-mongo-sanitize: prevent MongoDB Operator Injection
+
+
+### Run it Locally
+1. Clone the repository:
+```bash 
+https://github.com/RajaKunalPandit1/FindCamp.git
+```
+2. Install dependencies:
+```bash 
+cd FindCamp
+npm install
+```
+3. Set up environment variables:
+Create a `.env` file in the root directory of the project and add the following environment variables:
+```bash
+# Cloudinary Configuration
+CLOUDINARY_CLOUD_NAME=your_cloud_name
+CLOUDINARY_API_KEY=your_api_key
+CLOUDINARY_SECRET=your_secret_key
+
+# Mapbox Configuration
+MAPTILER_API_KEY=your_maptiler_Api
+
+# Database URL
+DB_URL=your_database_url
+```
+Replace these placeholders with your actual values when setting up the environment variables.
+
+4. Start running your app:
+```bash 
+node app.js
+```
+This will start the server at [http://localhost:3000](http://localhost:3000).
