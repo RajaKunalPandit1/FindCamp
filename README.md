@@ -4,16 +4,20 @@ A full-stack web application developed using Express JS, MongoDB, and EJS and Bo
 ## Demo-Preview && Screenshots
 ![FindCamp-Animation](views/demo.gif)
 
-* HomePage 
+* HomePage
+  
 ![home](views/Home_Page.png)
 
 * CampGrounds Page
+  
 ![campgrounds](views/campgrounds.png)
 
 *Campground
-![camp](views/camp ground.png)
+
+![camp](views/campground.png)
 
 *Login Page
+
 ![login](views/login.png)
 
 ## Features
