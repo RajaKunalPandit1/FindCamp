@@ -1,8 +1,20 @@
 # FindCamp
 A full-stack web application developed using Express JS, MongoDB, and EJS and Bootstrap 5.it's a vibrant community-driven hub that empowers users to explore, rate, and contribute their experiences with various campgrounds. This app supports posts management (creating, editing, and deleting), image uploading, responsive design with added security and PassportJS authentiacation. 
 
-## Demo-Preview
+## Demo-Preview && Screenshots
 ![FindCamp-Animation](views/demo.gif)
+
+* HomePage 
+![home](views/Home_Page.png)
+
+* CampGrounds Page
+![campgrounds](views/campgrounds.png)
+
+*Campground
+![camp](views/camp ground.png)
+
+*Login Page
+![login](views/login.png)
 
 ## Features
 
