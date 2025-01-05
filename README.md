@@ -12,11 +12,11 @@ A full-stack web application developed using Express JS, MongoDB, and EJS and Bo
   
 ![campgrounds](views/campgrounds.png)
 
-*Campground
+* Campground
 
 ![camp](views/campground.png)
 
-*Login Page
+* Login Page
 
 ![login](views/login.png)
 
